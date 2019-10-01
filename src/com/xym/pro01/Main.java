@@ -13,6 +13,8 @@ public class Main {
         int i = 0;
         if (i!=1) System.out.println("test master");
         System.out.println("test editor");
+
+        System.out.println("test .git ignore");
 //        int i = 1;
 //        new Timer(1000, e -> {
 //            System.out.println("At the tone, the time is " + i +  new Date());
