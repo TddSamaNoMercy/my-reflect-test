@@ -10,7 +10,9 @@ import java.util.function.Predicate;
 public class Main {
 
     public static void main(String... args) {
-        System.out.println("测试git branch");
+        int i = 1;
+        if (i != 1) System.out.println("测试git branch");
+        System.out.println("test editor");
 //        int i = 1;
 //        new Timer(1000, e -> {
 //            System.out.println("At the tone, the time is " + i +  new Date());
