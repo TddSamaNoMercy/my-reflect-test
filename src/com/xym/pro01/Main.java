@@ -10,6 +10,9 @@ import java.util.function.Predicate;
 public class Main {
 
     public static void main(String... args) {
+        int i = 0;
+        if (i!=1) System.out.println("test master");
+        System.out.println("test editor");
 //        int i = 1;
 //        new Timer(1000, e -> {
 //            System.out.println("At the tone, the time is " + i +  new Date());
